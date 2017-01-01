@@ -1,0 +1,18 @@
+need to ask how we have to run the prev pgm in this case app.js after runing examplke pgm
+
+if (bytes !== undefined) {
+			console.log("sdhkjasdkjhasd" + bytes.toString())
+		}
+
+
+
+=============
+API call:
+
+http://api.openweathermap.org/data/2.5/forecast/city?id=524901&APPID={APIKEY}
+Parameters:
+
+APPID {APIKEY} is your unique API key 
+=============
+hav to see the command ls -al ~/.ssh..it does nt give anything fr me.. in lcture 50
+

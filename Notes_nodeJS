@@ -1,0 +1,16 @@
+process.version - to know the version
+
+==> Node: node is based on js and runs on same js engine that chrome uses.
+==> console.log works in both node and js engine and process.version only works in node becoz node has builtin libraries on top js has to offer.
+==> node is nothing but js
+==> to list files in the folder through cmd, ls is the command
+==> 'push' method is used to append any element to the existing array at last position
+==> 'upshift' method is used to append element to the existing array at first position
+// 'push' method is used to append 
+// any element to the existing array at last position
+// 'unshift' method is used to append element 
+// to the existing array at first position
+// 'pop' is to remove element from the array from 
+// last position
+// 'shift' is to remove element from first
+// position
